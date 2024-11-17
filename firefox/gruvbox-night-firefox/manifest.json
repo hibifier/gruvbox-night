@@ -1,0 +1,61 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.2",
+  "name": "Gruvbox Night",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(235, 219, 178)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(213, 196, 161)",
+      "toolbar_field": "rgb(29, 32, 33)",
+      "toolbar_field_text": "rgb(235, 219, 178)",
+      "tab_line": "rgb(254, 128, 25)",
+      "popup": "rgb(29, 32, 33)",
+      "popup_text": "rgb(235, 219, 178)",
+      "button_background_active": "rgb(29, 32, 33)",
+      "button_background_hover": "rgb(29, 32, 33)",
+      "frame_inactive": "rgb(0, 0, 0)",
+      "icons_attention": "rgb(131, 165, 152)",
+      "icons": "rgb(235, 219, 178)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_card_background": "rgb(29, 32, 33)",
+      "ntp_text": "rgb(235, 219, 178)",
+      "popup_border": "rgb(29, 32, 33)",
+      "popup_highlight_text": "rgb(235, 219, 178)",
+      "popup_highlight": "rgb(40, 40, 40)",
+      "sidebar_border": "rgb(29, 32, 33)",
+      "sidebar_highlight_text": "rgb(235, 219, 178)",
+      "sidebar_highlight": "rgb(40, 40, 40)",
+      "sidebar_text": "rgb(235, 219, 178)",
+      "sidebar": "rgb(29, 32, 33)",
+      "tab_background_separator": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(254, 128, 25)",
+      "tab_selected": "rgb(29, 32, 33)",
+      "tab_text": "rgb(235, 219, 178)",
+      "toolbar_bottom_separator": "rgb(0, 0, 0)",
+      "toolbar_field_border_focus": "rgb(254, 128, 25)",
+      "toolbar_field_border": "rgb(29, 32, 33)",
+      "toolbar_field_focus": "rgb(29, 32, 33)",
+      "toolbar_field_highlight_text": "rgb(235, 219, 178)",
+      "toolbar_field_highlight": "rgb(131, 165, 152)",
+      "toolbar_field_separator": "rgb(29, 32, 33)",
+      "toolbar_field_text_focus": "rgb(235, 219, 178)",
+      "toolbar_top_separator": "rgb(0, 0, 0)",
+      "toolbar_vertical_separator": "rgb(0, 0, 0)"
+    }
+  }
+}
