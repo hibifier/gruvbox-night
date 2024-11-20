@@ -1,61 +1,54 @@
 {
   "manifest_version": 2,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "Gruvbox Night",
+  "description": "AMOLED and Gruvbox themes coalesced into one theme. Easy on the eyes and the screen.",
   "theme": {
-    "images": {
-      "additional_backgrounds": [
-        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
-      ]
-    },
-    "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
-    },
     "colors": {
-      "toolbar": "rgb(0, 0, 0)",
-      "toolbar_text": "rgb(235, 219, 178)",
-      "frame": "rgb(0, 0, 0)",
-      "tab_background_text": "rgb(213, 196, 161)",
-      "toolbar_field": "rgb(29, 32, 33)",
-      "toolbar_field_text": "rgb(235, 219, 178)",
-      "tab_line": "rgb(254, 128, 25)",
-      "popup": "rgb(29, 32, 33)",
-      "popup_text": "rgb(235, 219, 178)",
-      "button_background_active": "rgb(29, 32, 33)",
-      "button_background_hover": "rgb(29, 32, 33)",
-      "frame_inactive": "rgb(0, 0, 0)",
-      "icons_attention": "rgb(131, 165, 152)",
-      "icons": "rgb(235, 219, 178)",
-      "ntp_background": "rgb(0, 0, 0)",
-      "ntp_card_background": "rgb(29, 32, 33)",
-      "ntp_text": "rgb(235, 219, 178)",
-      "popup_border": "rgb(29, 32, 33)",
-      "popup_highlight_text": "rgb(235, 219, 178)",
-      "popup_highlight": "rgb(40, 40, 40)",
-      "sidebar_border": "rgb(29, 32, 33)",
-      "sidebar_highlight_text": "rgb(235, 219, 178)",
-      "sidebar_highlight": "rgb(40, 40, 40)",
-      "sidebar_text": "rgb(235, 219, 178)",
-      "sidebar": "rgb(29, 32, 33)",
-      "tab_background_separator": "rgb(0, 0, 0)",
-      "tab_loading": "rgb(254, 128, 25)",
-      "tab_selected": "rgb(29, 32, 33)",
-      "tab_text": "rgb(235, 219, 178)",
-      "toolbar_bottom_separator": "rgb(0, 0, 0)",
-      "toolbar_field_border_focus": "rgb(254, 128, 25)",
-      "toolbar_field_border": "rgb(29, 32, 33)",
-      "toolbar_field_focus": "rgb(29, 32, 33)",
-      "toolbar_field_highlight_text": "rgb(235, 219, 178)",
-      "toolbar_field_highlight": "rgb(131, 165, 152)",
-      "toolbar_field_separator": "rgb(29, 32, 33)",
-      "toolbar_field_text_focus": "rgb(235, 219, 178)",
-      "toolbar_top_separator": "rgb(0, 0, 0)",
-      "toolbar_vertical_separator": "rgb(0, 0, 0)"
+      "frame": "#000000",
+      "frame_inactive": "#000000",
+      "toolbar": "#000000",
+      "toolbar_text": "#ebdbb2",
+      "toolbar_top_separator": "#000000",
+      "toolbar_vertical_separator": "#000000",
+      "toolbar_bottom_separator": "#000000",
+      "tab_background_separator": "#000000",
+      "tab_background_text": "#d5c4a1",
+      "tab_text": "#ebdbb2",
+      "tab_line": "#fe8019",
+      "tab_loading": "#fe8019",
+      "tab_selected": "#282828",
+
+      "sidebar": "#1d2021",
+      "sidebar_text": "#ebdbb2",
+      "sidebar_highlight_text": "#ebdbb2",
+      "sidebar_highlight": "#282828",
+      "sidebar_border": "#1d2021",
+
+      "toolbar_field": "#1d2021",
+      "toolbar_field_focus": "#1d2021",
+      "toolbar_field_border": "#1d2021",
+      "toolbar_field_border_focus": "#fe8019",
+      "toolbar_field_highlight": "#83a598",
+      "toolbar_field_highlight_text": "#ebdbb2",
+      "toolbar_field_text": "#ebdbb2",
+      "toolbar_field_text_focus": "#ebdbb2",
+      "toolbar_field_separator": "#282828",
+
+      "popup": "#1d2021",
+      "popup_text": "#ebdbb2",
+      "popup_border": "#1d2021",
+      "popup_highlight": "#282828",
+      "popup_highlight_text": "#ebdbb2",
+
+      "ntp_background": "#000000",
+      "ntp_card_background": "#282828",
+      "ntp_text": "#ebdbb2",
+
+      "icons": "#ebdbb2",
+      "icons_attention": "#83a598",
+      "button_background_active": "#282828",
+      "button_background_hover": "#1d2021"
     }
   }
 }
