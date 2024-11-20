@@ -61,4 +61,5 @@ Alternatively:
 
 ## Credits
 [`morhetz/gruvbox`](https://github.com/morhetz/gruvbox): Original Gruvbox theme for Vim
+
 [`calvinchd/GruvboxDarkFirefoxTheme`](https://codeberg.org/calvinchd/GruvboxDarkFirefoxTheme): Original Gruvbox colors for Firefox and Thunderbird; basis for manifest.json
